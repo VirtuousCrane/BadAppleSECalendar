@@ -1,3 +1,9 @@
+// How to use:
+// 1) Go to the SE website
+// 2) Paste this script into the console
+// 3) init()
+// 4) run()
+
 var canvas = new Array(7);
 var frameIndex = 0;
 
